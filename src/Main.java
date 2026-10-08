@@ -6,6 +6,6 @@ public class Main {
         Student st2 = new Student("B", 1);
 
         System.out.println(st1);
-        System.out.println(st2);;
+        System.out.println(st2);
     }
 }
